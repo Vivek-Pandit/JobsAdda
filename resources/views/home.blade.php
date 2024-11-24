@@ -60,7 +60,7 @@
 
     </section>
     
-    <section class="py-5 bg-image overlay-primary fixed overlay" id="next" style="background-image: url('images/hero_1.jpg');">
+    <!-- <section class="py-5 bg-image overlay-primary fixed overlay" id="next" style="background-image: url('images/hero_1.jpg');">
       <div class="container">
         <div class="row mb-5 justify-content-center">
           <div class="col-md-7 text-center">
@@ -101,7 +101,7 @@
             
         </div>
       </div>
-    </section>
+    </section> -->
 
     
 
